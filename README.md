@@ -1,2 +1,2 @@
-# toppling-boxes
-game created on vs code editor
+# TopplingBoxes
+Toppling Boxes
